@@ -3,6 +3,6 @@
   "drug_lower": "empa mi",
   "condition": "Adults hospitalized with acute myocardial",
   "slug": "empa_mi",
-  "source_repo": "Empa_MI_LivingMeta",
+  "source_repo": "C:\\Projects\\Empa_MI_LivingMeta",
   "source_html": "EMPA_MI_REVIEW.html"
 }
